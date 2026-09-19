@@ -57,7 +57,10 @@ h3 { font-size: 1.35rem; }
 .hero-glow-two { right: -290px; bottom: -80px; width: 570px; height: 570px; }
 .hero-inner { position: relative; z-index: 2; max-width: 780px; text-align: center; }
 .hero-logo {
-  width: clamp(170px, 28vw, 250px); aspect-ratio: 1; object-fit: cover; border-radius: 50%;
+  width: clamp(170px, 28vw, 250px);
+height: clamp(170px, 28vw, 250px);
+object-fit: cover;
+border-radius: 50%;
   margin: 0 auto 1.6rem; box-shadow: 0 26px 70px rgba(0,0,0,.36);
 }
 .eyebrow {
