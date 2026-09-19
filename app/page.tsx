@@ -133,7 +133,7 @@ export default function Home() {
       </section>
 
       <section className="purpose-section">
-        <div className="purpose-photo"><Image src="/assets/drika.webp" alt="Drika Nunes, profissional à frente da DK Concept Hair" width={944} height={344} sizes="(max-width: 980px) 100vw, 50vw" /></div>
+        <div className="purpose-photo"><Image src="/assets/drika-nova.png" alt="Drika Nunes, profissional à frente da DK Concept Hair" width={944} height={344} sizes="(max-width: 980px) 100vw, 50vw" /></div>
         <div className="purpose-copy">
           <p className="eyebrow">DK Concept Hair além do salão</p><h2>Beleza que transforma</h2><h3>Drika no Beauty Day da L’Oréal</h3>
           <p>Em agosto de 2026, Drika participou de um Beauty Day muito especial: 10 mulheres e 10 profissionais reunidos para proporcionar uma experiência inesquecível através da beleza.</p>
